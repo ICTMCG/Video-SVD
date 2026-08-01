@@ -61,6 +61,7 @@ HunyuanVideo and Wan2.1 models while maintaining generation fidelity.
 | Wan2.1-1.3B | 1.75× |
 | Wan2.1-14B | 1.79× |
 
+![Results](assets/results.png)
 
 ## Code
 
