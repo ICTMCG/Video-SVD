@@ -1,9 +1,8 @@
 
 # Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition
 
-**Accepted to ICML 2026.**
+**Accepted to ICML 2026 **
 
-Official implementation of the paper.
 
 ## Overview
 
