@@ -1,5 +1,5 @@
 
-# Video-SVD
+# Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition
 
 Official implementation of:
 
